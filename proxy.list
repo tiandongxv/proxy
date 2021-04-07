@@ -1,9 +1,0 @@
-shadowsocks=ss.us.sshmax.net:1443, method=chacha20-ietf-poly1305, password=etz79AGriwFo, fast-open=false, udp-relay=false, tag=[damon]ss.us.sshmax.net
-
-shadowsocks=ss.ru.sshmax.net:1443, method=chacha20-ietf-poly1305, password=HVGwuAmiTOWL, fast-open=false, udp-relay=false, tag=[damon]ss.ru.sshmax.net
-
-shadowsocks=ss.au.sshmax.net:57478, method=chacha20-ietf-poly1305, password=j4Mbwfvvntk5, fast-open=false, udp-relay=false, tag=[damon]ss.au.sshmax.net
-
-shadowsocks=ss.ca.sshmax.net:57478, method=chacha20-ietf-poly1305, password=hYfZHCVRsOXm, fast-open=false, udp-relay=false, tag=[damon]ss.ca.sshmax.net
-
-shadowsocks=ss.fr.sshmax.net:57478, method=chacha20-ietf-poly1305, password=LWKlPnbWAqXa, fast-open=false, udp-relay=false, tag=[damon]ss.fr.sshmax.net
