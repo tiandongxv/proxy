@@ -1,4 +1,4 @@
-hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mobile-api.adguard.com, sk.ulysses.app, buy.itunes.apple.com, api.flexibits.com
+hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mobile-api.adguard.com, sk.ulysses.app, buy.itunes.apple.com, api.flexibits.com, app.flashdown365.com
 
 #Musixmatch
 ^https:\/\/apic\.musixmatch\.com\/ws\/.*\/config\.get url script-response-body langkhach/musixmatch.miao.js
@@ -22,3 +22,6 @@ hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mo
 
 #bear
 ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/bear.js
+
+#闪电下载
+^http\:\/\/app\.flashdown365\.com\/ios\/login url script-response-body 
