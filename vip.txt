@@ -14,7 +14,6 @@ hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mo
 
 #ulysses
 ^https:\/\/sk\.ulysses\.app\/api\/v1\/user_offers$ url request-header (\r\n)If-None-Match:.+(\r\n) request-header $1 
-
 ^https:\/\/sk\.ulysses\.app\/api\/v1\/itunes_receipt_verify$ url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/ulysses.js
 
 #fantastical
