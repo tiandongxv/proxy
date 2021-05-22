@@ -1,4 +1,4 @@
-hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mobile-api.adguard.com, sk.ulysses.app, buy.itunes.apple.com, api.flexibits.com, app.flashdown365.com
+hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mobile-api.adguard.com, api.termius.com, buy.itunes.apple.com, api.flexibits.com, app.flashdown365.com
 
 #Musixmatch
 ^https:\/\/apic\.musixmatch\.com\/ws\/.*\/config\.get url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/musixmatch.miao.js
@@ -12,11 +12,6 @@ hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mo
 #draft
 ^https:\/\/backend\.getdrafts\.com\/api\/.*\/verification* url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/draft.js
 
-#ulysses
-^https:\/\/sk\.ulysses\.app\/api\/v1\/user_offers$ url request-header (\r\n)If-None-Match:.+(\r\n) request-header $1 
-
-^https:\/\/sk\.ulysses\.app\/api\/v1\/itunes_receipt_verify$ url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/ulysses.js
-
 #fantastical
 ^https:\/\/api\.flexibits\.com\/v1\/(auth|account)\/(device|details|appstore-receipt)\/$ url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/Fantastical.js
 
@@ -25,3 +20,6 @@ hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mo
 
 #闪电下载
 ^http\:\/\/app\.flashdown365\.com\/ios\/login url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/sdxz.js
+
+#Termius 
+https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/Terminus.js
