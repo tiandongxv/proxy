@@ -1,4 +1,4 @@
-hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mobile-api.adguard.com, api.termius.com, buy.itunes.apple.com, api.flexibits.com, app.flashdown365.com
+hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mobile-api.adguard.com, buy.itunes.apple.com, api.flexibits.com, app.flashdown365.com
 
 #Musixmatch
 ^https:\/\/apic\.musixmatch\.com\/ws\/.*\/config\.get url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/musixmatch.miao.js
@@ -20,6 +20,3 @@ hostname = apic.musixmatch.com, backend.getdrafts.com, license.pdfexpert.com, mo
 
 #闪电下载
 ^http\:\/\/app\.flashdown365\.com\/ios\/login url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/sdxz.js
-
-#Termius 
-https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ url script-response-body https://raw.githubusercontent.com/tiandongxv/proxy/main/Terminus.js
