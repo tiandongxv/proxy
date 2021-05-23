@@ -1,1 +1,0 @@
-vmess=kurun.edrret.top:34263, method=aes-128-gcm, password=c9ab6f6c-9429-4eb3-a729-95357257e318, obfs=wss, obfs-uri=/sdkjdsfnj, tls-verification=true, fast-open=false, udp-relay=false, tag=HK
