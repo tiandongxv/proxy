@@ -13,4 +13,3 @@ CN_@baipiao01 8 = trojan, v1hugang4.kuli888.xyz, 11151, password=0ea4ffba-f5d3-3
 HK_@baipiao01 3 = trojan, v1hugang3.kuli888.xyz, 11150, password=0ea4ffba-f5d3-324b-946b-8db5c50266cb, skip-cert-verify=true, tfo=true, udp-relay=true
 CN_@baipiao01 13 = trojan, v1hugang5.kuli888.xyz, 10028, password=0ea4ffba-f5d3-324b-946b-8db5c50266cb, skip-cert-verify=true, tfo=true, udp-relay=true
 CN_@baipiao01 37 = trojan, v1shengang.kuli888.xyz, 52016, password=0ea4ffba-f5d3-324b-946b-8db5c50266cb, skip-cert-verify=true, tfo=true, udp-relay=true
-CN_@baipiao01 120 = vmess, gz-1.jiasugou.one, 15004, username=985eb001-56be-3bb9-927a-f3b9c6376a49, tls=false, vmess-aead=true, ws=true, ws-path=/zh-cn/news, sni=gz-1.jiasugou.one, ws-headers=Host:gz-1.jiasugou.one, skip-cert-verify=true, tfo=true, udp-relay=true
