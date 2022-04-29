@@ -3,7 +3,6 @@ HongKong 01 = trojan, api-gzct.malibaba.xyz, 10080, password=1d061703-dd40-331f-
 HongKong 02 = trojan, api-gzct.malibaba.xyz, 10081, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=hk2.daydaygeek.icu
 HongKong 03 = trojan, api-gzct.malibaba.xyz, 10082, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=hk3.daydaygeek.icu
 Japan 01 = trojan, api-02.malibaba.xyz, 15563, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=jp1.daydaygeek.icu
-Japan 02 = trojan, api-02.malibaba.xyz, 15564, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=jp2.daydaygeek.icu
 Singapore 01 = trojan, api-01.malibaba.xyz, 31769, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=sg1.daydaygeek.icu
 Singapore 02 = trojan, api-01.malibaba.xyz, 38599, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=sg2.daydaygeek.icu
 Singapore 03 = trojan, api-gzct.malibaba.xyz, 17099, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=sg3.daydaygeek.icu
