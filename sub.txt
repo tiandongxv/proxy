@@ -13,3 +13,16 @@ CN_@baipiao01 8 = trojan, v1hugang4.kuli888.xyz, 11151, password=0ea4ffba-f5d3-3
 HK_@baipiao01 3 = trojan, v1hugang3.kuli888.xyz, 11150, password=0ea4ffba-f5d3-324b-946b-8db5c50266cb, skip-cert-verify=true, tfo=true, udp-relay=true
 CN_@baipiao01 13 = trojan, v1hugang5.kuli888.xyz, 10028, password=0ea4ffba-f5d3-324b-946b-8db5c50266cb, skip-cert-verify=true, tfo=true, udp-relay=true
 CN_@baipiao01 37 = trojan, v1shengang.kuli888.xyz, 52016, password=0ea4ffba-f5d3-324b-946b-8db5c50266cb, skip-cert-verify=true, tfo=true, udp-relay=true
+HongKong 01 = trojan, api-01.alibaba-cn.xyz, 10080, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=hk1.daydaygeek.icu
+HongKong 02 = trojan, api-01.alibaba-cn.xyz, 10081, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=hk2.daydaygeek.icu
+HongKong 03 = trojan, api-01.alibaba-cn.xyz, 10082, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=hk3.daydaygeek.icu
+Japan 01 = trojan, api-02.malibaba.xyz, 15563, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=jp1.daydaygeek.icu
+Japan 02 = trojan, api-02.malibaba.xyz, 15564, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=jp2.daydaygeek.icu
+Japan 03 = trojan, api-02.malibaba.xyz, 15565, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=jp3.daydaygeek.icu
+Singapore 01 = trojan, api-01.malibaba.xyz, 31769, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=sg1.daydaygeek.icu
+Singapore 02 = trojan, api-01.malibaba.xyz, 38599, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=sg2.daydaygeek.icu
+Singapore 03 = trojan, api-gzct.malibaba.xyz, 17099, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=sg3.daydaygeek.icu
+Singapore 04 = trojan, api-gzct.malibaba.xyz, 18705, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=sg4.daydaygeek.icu
+Singapore 05 = trojan, api-gzct.malibaba.xyz, 37071, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=sg5.daydaygeek.icu
+官网daydaygeek.icu = trojan, api-gzct.malibaba.xyz, 10082, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=hk3.daydaygeek.icu
+当前本站所有节点免费，严禁倒卖转售 = trojan, api-gzct.malibaba.xyz, 10082, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=hk3.daydaygeek.icu
