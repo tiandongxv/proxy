@@ -1,3 +1,4 @@
+jp(7.7) = trojan, rbmf.speedcncnforward3.tk, 10004, password=c3afb399-c8a8-461d-91bb-ee748838959d, tfo=true
 Japan 01 = trojan, api-02.malibaba.xyz, 15563, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=jp1.daydaygeek.icu
 Singapore 01 = trojan, api-01.malibaba.xyz, 31769, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=sg1.daydaygeek.icu
 Singapore 02 = trojan, api-01.malibaba.xyz, 38599, password=1d061703-dd40-331f-9a0b-ba61fe6ae961, sni=sg2.daydaygeek.icu
