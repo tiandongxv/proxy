@@ -1,5 +1,6 @@
 payload:
-#  - '265.com'
+#  - 'btnull.org'
 #  - '+.applestore.cc'
 #  - PROCESS-NAME,sslocal.exe
   - 'sub.store'
+  - 'btnull.org'
