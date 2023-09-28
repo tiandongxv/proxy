@@ -1,5 +1,6 @@
 payload:
 #  - '265.com'
-#  - '+.applestore.cc'
+#  - '+.push.apple.com'
 #  - PROCESS-NAME,sslocal.exe
   - 'zaobao.com'
+  - '+.push.apple.com'
