@@ -3,5 +3,6 @@ payload:
 #  - '+.push.apple.com'
 #  - PROCESS-NAME,sslocal.exe
   - 'zaobao.com'
+  - 'zaobao.com.sg'
   - '+.push.apple.com'
   - '+.smoot.apple.com'
