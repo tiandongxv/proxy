@@ -1,5 +1,2 @@
 payload:
-#  - '265.com'
-#  - '+.applestore.cc'
-#  - PROCESS-NAME,sslocal.exe
-  - '+.epochtimes.com'
+  - DOMAIN-SUFFIX,epochtimes.com

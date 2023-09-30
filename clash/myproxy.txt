@@ -1,6 +1,3 @@
 payload:
-#  - 'btnull.org'
-#  - '+.applestore.cc'
-#  - PROCESS-NAME,sslocal.exe
-  - 'sub.store'
-  - 'btnull.org'
+  - DOMAIN-SUFFIX,sub.store
+  - DOMAIN-SUFFIX,btnull.org
