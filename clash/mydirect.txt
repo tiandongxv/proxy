@@ -1,7 +1,9 @@
 payload:
   - DOMAIN-KEYWORD,zaobao.com
+# apple 
   - DOMAIN-SUFFIX,push.apple.com
   - DOMAIN-SUFFIX,smoot.apple.com
+  - DOMAIN-SUFFIX,time-ios.apple.com
   
 # Spotify 直连
   - DOMAIN,audio4-ak-spotify-com.akamaized.net
