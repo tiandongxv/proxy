@@ -1,7 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,zaobao.com
 # apple 
-  - DOMAIN-SUFFIX,apple.com
 
 # slack 
   - DOMAIN-SUFFIX,slack-core.com
