@@ -1,0 +1,32 @@
+#!name=Q-Search
+#!desc=Safari Search Add-ons
+
+
+[URL Rewrite]
+#百度百科
+^https:\/\/duckduckgo.com\/\?q=bk\+([^&]+).+ https://baike.baidu.com/item/?keyword=$1 302
+
+^https:\/\/duckduckgo.com\/\?q=xz\+([^&]+).+ https://zxcstxt.com/?s=$1 302
+
+^https:\/\/duckduckgo.com\/\?q=zx\+([^&]+).+ https://zxcsol.com/?s=$1&type=post 302
+
+^https:\/\/duckduckgo.com\/\?q=bi\+([^&]+).+ https://www.bing.com/search?q=$1 302
+
+^https:\/\/duckduckgo.com\/\?q=al\+([^&]+).+ https://yunpan1.co/?q=$1 302
+
+^https:\/\/duckduckgo.com\/\?q=tx\+([^&]+).+ https://www.zxcs.info/index.php?keyword=$1 302
+
+^https:\/\/duckduckgo.com\/\?q=bd\+([^&]+).+ https://www.baidu.com/s?wd=$1 302
+^https:\/\/duckduckgo.com\/\?q=db\+([^&]+).+ https://m.douban.com/search/?query=$1 302
+^https:\/\/duckduckgo.com\/\?q=gh\+([^&]+).+ https://github.com/search?q=$1 302
+^https:\/\/duckduckgo.com\/\?q=gm\+([^&]+).+ https://www.google.com/search?&tbm=isch&q=$1 302
+^https:\/\/duckduckgo.com\/\?q=yd\+([^&]+).+ http://dict.youdao.com/search?q=$1 302
+^https:\/\/duckduckgo.com\/\?q=ddg\+([^&]+).+ https://duckduckgo.com/?ia=about&q=$1 302
+
+
+^https:\/\/duckduckgo.com\/\?q=([^&]+).+ https://www.google.com/search?q=$1 302
+^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
+
+
+[MITM]
+hostname = %APPEND% duckduckgo.com
