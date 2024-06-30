@@ -1,7 +1,7 @@
 #!name=Q-Search
 #!desc=Safari Search Add - ons
 [URL Rewrite]
-#百度百科
+#百度 百科
 ^https:\/\/duckduckgo.com\/\?q=bk\+([^&]+).+ https://baike.baidu.com/item/?keyword=$1 302
 
 ^https:\/\/duckduckgo.com\/\?q=xz\+([^&]+).+ https://zxcstxt.com/?s=$1 302
