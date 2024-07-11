@@ -12,6 +12,10 @@
 
 ^https:\/\/duckduckgo.com\/\?q=bi\+([^&]+).+ https://www.bing.com/search?q=$1 302
 
+#阿里网盘
+
+^https:\/\/duckduckgo.com\/\?q=la\+([^&]+).+ https://pan666.net/?q=$1 302
+
 ^https:\/\/duckduckgo.com\/\?q=al\+([^&]+).+ https://yunpan1.co/?q=$1 302
 
 ^https:\/\/duckduckgo.com\/\?q=tx\+([^&]+).+ https://www.zxcs.info/index.php?keyword=$1 302
