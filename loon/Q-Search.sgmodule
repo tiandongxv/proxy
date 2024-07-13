@@ -12,7 +12,7 @@
 
 ^https:\/\/duckduckgo.com\/\?q=bi\+([^&]+).+ https://www.bing.com/search?q=$1 302
 
-#阿里网盘
+#阿里网盘资源搜索
 
 ^https:\/\/duckduckgo.com\/\?q=la\+([^&]+).+ https://pan666.net/?q=$1 302
 
