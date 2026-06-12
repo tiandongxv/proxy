@@ -1,4 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,zaobao.com
 # anydesk
-  - DOMAIN-SUFFIX,anydesk.com
+#  - DOMAIN-SUFFIX,anydesk.com
