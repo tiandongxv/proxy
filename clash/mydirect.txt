@@ -1,4 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,zaobao.com
 # anydesk
-#  - DOMAIN-SUFFIX,anydesk.com
+  - DOMAIN-SUFFIX,anydesk.com
+  - DOMAIN-SUFFIX,net.anydesk.com
+  - DST-PORT,6568
+  - DST-PORT,50001-50003
