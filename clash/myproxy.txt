@@ -2,3 +2,8 @@ payload:
   - DOMAIN-SUFFIX,sub.store
   - DOMAIN-SUFFIX,btnull.org
   - DOMAIN-SUFFIX,temu.com
+  - DOMAIN-SUFFIX,ipinfo.io,PROXY
+  - DOMAIN-KEYWORD,ip2location,PROXY
+  - DOMAIN-SUFFIX,ipdata.co,PROXY
+  - DOMAIN-KEYWORD,ip-api,PROXY
+  - DOMAIN-SUFFIX,whoer.net,PROXY
